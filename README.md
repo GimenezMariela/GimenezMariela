@@ -23,7 +23,9 @@
 [<img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png">](https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png)  <!-- Jupyter-->
 [<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f">](https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f)  <!--Numpy -->
 [<img width="100" src="https://github.com/user-attachments/assets/627a2dd3-fea9-4189-8e01-2843a5f1c1a3">](https://github.com/user-attachments/assets/627a2dd3-fea9-4189-8e01-2843a5f1c1a3) <!-- Pandas-->
-[<img width="50" src="https://github.com/devicons/devicon/tree/master/icons/matplotlib">](https://github.com/devicons/devicon/tree/master/icons/matplotlib) <!--matplotlib -->
+[<img width="50" src="https://github.com/user-attachments/assets/d845a5a1-50b7-447c-b77d-99ad357c7323">](https://github.com/user-attachments/assets/d845a5a1-50b7-447c-b77d-99ad357c7323) <!--matplotlib -->
+
+
 
 [<img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">](https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png) <!--Spring -->
 
